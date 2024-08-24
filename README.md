@@ -23,11 +23,14 @@ The **WebDevQuizApp** is a fun and interactive way to test your knowledge of var
 
 ## Screenshots
 
-### Main Menu
+### Main Menu :
+
 ![Main Menu](Screenshots/Affichage%20n°1.png)
 
-### Quiz Screens
+### Quiz Screens :
+
 ![Quiz in Progress](Screenshots/Affichage%20n°2.png)
 
-### Result Pages
+### Result Pages :
+
 ![Results](Screenshots/Affichage%20n°3.png)
