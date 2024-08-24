@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Quelle méthode JavaScript est utilisée pour trier les éléments d'un tableau ?",
+    "options": ["La méthode est : order()", "La méthode est : sort()", "La méthode est : arrange()", "La méthode est : organize()"],
+    "answer": 1
+  },
+  {
+    "question": "Quelle méthode JavaScript est utilisée pour supprimer le dernier élément d'un tableau ?",
+    "options": ["La méthode est : pop()", "La méthode est : removeLast()", "La méthode est : delete()", "La méthode est : splice()"],
+    "answer": 0
+  },
+  {
+    "question": "Quelle fonction JavaScript est utilisée pour arrondir un nombre à l'entier le plus proche ?",
+    "options": ["La fonction est : round()", "La fonction est : floor()", "La fonction est : ceil()", "La fonction est : truncate()"],
+    "answer": 0
+  },
+  {
+    "question": "Quelle fonction JavaScript est utilisée pour transformer une chaîne de caractères en majuscules ?",
+    "options": ["La fonction est : toUpper()", "La fonction est : upper()", "La fonction est : toUpperCase()", "La fonction est : changeCase()"],
+    "answer": 2
+  },
+  {
+    "question": "Quel opérateur JavaScript est utilisé pour concaténer des chaînes de caractères ?",
+    "options": ["L'opérateur est : ++", "L'opérateur est : +", "L'opérateur est : &", "L'opérateur est : ||"],
+    "answer": 1
+  },
+  {
+    "question": "Quelle fonction JavaScript est utilisée pour convertir une chaîne de caractères en nombre entier ?",
+    "options": ["La fonction est : toInt()", "La fonction est : parseInt()", "La fonction est : parseNumber()", "La fonction est : strToNum()"],
+    "answer": 1
+  },
+  {
+    "question": "Quelle fonction JavaScript est utilisée pour obtenir la longueur d'une chaîne de caractères ?",
+    "options": ["La fonction est : stringLength()", "La fonction est : length()", "La fonction est : len()", "La fonction est : getSize()"],
+    "answer": 1
+  },
+  {
+    "question": "Quelle méthode JavaScript est utilisée pour ajouter un élément à la fin d'un tableau ?",
+    "options": ["La méthode est : add()", "La méthode est : push()", "La méthode est : append()", "La méthode est : insert()"],
+    "answer": 1
+  },
+  {
+    "question": "Quel événement JavaScript est déclenché lorsqu'un utilisateur clique sur un élément HTML ?",
+    "options": ["L'événement est : onchange", "L'événement est : onsubmit", "L'événement est : onclick", "L'événement est : onmouseover"],
+    "answer": 2
+  },
+  {
+    "question": "Quel mot-clé est utilisé pour déclarer une variable en JavaScript ?",
+    "options": ["Le mot-clé est : var", "Le mot-clé est : let", "Le mot-clé est : const", "Le mot-clé est : variable"],
+    "answer": 0
+  },
+  {
+    "question": "Quelle fonction JavaScript est utilisée pour arrondir un nombre à l'entier inférieur le plus proche ?",
+    "options": ["La fonction est : roundDown()", "La fonction est : floor()", "La fonction est : round()", "La fonction est : Math.roundDown()"],
+    "answer": 1
+  },
+  {
+    "question": "Quelle méthode JavaScript est utilisée pour convertir un nombre en chaîne de caractères ?",
+    "options": ["La méthode est : toString()", "La méthode est : toStr()", "La méthode est : numberToString()", "La méthode est : stringify()"],
+    "answer": 0
+  },
+  {
+    "question": "Quelle fonction JavaScript est utilisée pour obtenir la valeur absolue d'un nombre ?",
+    "options": ["La fonction est : abs()", "La fonction est : absolute()", "La fonction est : Math.abs()", "La fonction est : value()"],
+    "answer": 2
+  },
+  {
+    "question": "Quelle méthode JavaScript est utilisée pour sélectionner un élément HTML par son ID ?",
+    "options": ["La méthode est : select()", "La méthode est : getElement()", "La méthode est : getById()", "La méthode est : document.getElementById()"],
+    "answer": 3
+  },
+  {
+    "question": "Quel opérateur JavaScript est utilisé pour vérifier l'égalité stricte ?",
+    "options": ["L'opérateur est : ==", "L'opérateur est : ===", "L'opérateur est : =!=", "L'opérateur est : !=="],
+    "answer": 1
+  },
+  {
+    "question": "Quelle fonction JavaScript est utilisée pour afficher une boîte de dialogue avec un message ?",
+    "options": ["La fonction est : alert()", "La fonction est : prompt()", "La fonction est : confirm()", "La fonction est : console.log()"],
+    "answer": 0
+  },
+  {
+    "question": "Quelle fonction JavaScript est utilisée pour rediriger vers une autre page ?",
+    "options": ["La fonction est : redirect()", "La fonction est : header()", "La fonction est : location()", "La fonction est : navigate()"],
+    "answer": 2
+  },
+  {
+    "question": "Quelle fonction JavaScript est utilisée pour obtenir la date actuelle ?",
+    "options": ["La fonction est : today()", "La fonction est : currentDate()", "La fonction est : now()", "La fonction est : new Date()"],
+    "answer": 3
+  },
+  {
+    "question": "Quelle fonction JavaScript est utilisée pour retourner la partie entière d'un nombre ?",
+    "options": ["La fonction est : getInteger()", "La fonction est : toInteger()", "La fonction est : parseInt()", "La fonction est : Math.floor()"],
+    "answer": 3
+  },
+  {
+    "question": "Quelle méthode JavaScript est utilisée pour calculer la puissance d'un nombre ?",
+    "options": ["La méthode est : power()", "La méthode est : pow()", "La méthode est : exponent()", "La méthode est : Math.pow()"],
+    "answer": 3
+  },
+  {
+    "question": "Quelle méthode JavaScript est utilisée pour rechercher un élément dans un tableau et renvoyer son index ?",
+    "options": ["La méthode est : search()", "La méthode est : findIndex()", "La méthode est : indexOf()", "La méthode est : find()"],
+    "answer": 2
+  },
+  {
+    "question": "Quelle méthode JavaScript est utilisée pour convertir une chaîne de caractères en minuscules ?",
+    "options": ["La méthode est : toLowerCase()", "La méthode est : lower()", "La méthode est : caseLower()", "La méthode est : changeLower()"],
+    "answer": 0
+  },
+  {
+    "question": "Quelle méthode JavaScript est utilisée pour arrondir un nombre à la décimale spécifiée ?",
+    "options": ["La méthode est : roundTo()", "La méthode est : round()", "La méthode est : toFixed()", "La méthode est : Math.roundTo()"],
+    "answer": 2
+  },
+  {
+    "question": "Quelle fonction JavaScript est utilisée pour générer un nombre aléatoire dans une plage spécifiée ?",
+    "options": ["La fonction est : randomInRange()", "La fonction est : random()", "La fonction est : getRandom()", "La fonction est : Math.randomRange()"],
+    "answer": 3
+  },
+  {
+    "question": "Quelle fonction JavaScript est utilisée pour obtenir la date actuelle et l'heure ?",
+    "options": ["La fonction est : today()", "La fonction est : currentDate()", "La fonction est : now()", "La fonction est : getDateTime()"],
+    "answer": 2
+  },
+  {
+    "question": "Quelle méthode JavaScript est utilisée pour concaténer deux tableaux ?",
+    "options": ["La méthode est : join()", "La méthode est : concat()", "La méthode est : combine()", "La méthode est : merge()"],
+    "answer": 1
+  },
+  {
+    "question": "Quel opérateur JavaScript est utilisé pour l'opération de modulo ?",
+    "options": ["L'opérateur est : %", "L'opérateur est : &", "L'opérateur est : mod", "L'opérateur est : /"],
+    "answer": 0
+  },
+  {
+    "question": "Quelle méthode JavaScript est utilisée pour sélectionner un élément HTML par sa classe ?",
+    "options": ["La méthode est : getByClass()", "La méthode est : select()", "La méthode est : getElementsByClass()", "La méthode est : document.getElementsByClassName()"],
+    "answer": 3
+  },
+  {
+    "question": "Quelle méthode JavaScript est utilisée pour inverser l'ordre des éléments d'un tableau ?",
+    "options": ["La méthode est : reverse()", "La méthode est : invert()", "La méthode est : flip()", "La méthode est : back()"],
+    "answer": 0
+  },
+  {
+    "question": "Quelle méthode JavaScript est utilisée pour obtenir la valeur maximale d'un tableau ?",
+    "options": ["La méthode est : max()", "La méthode est : maximum()", "La méthode est : getMax()", "La méthode est : Math.max()"],
+    "answer": 3
+  }
+]

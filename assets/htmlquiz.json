@@ -1,0 +1,101 @@
+[
+  {
+    "question": "Quelle balise HTML est utilisée pour créer un lien hypertexte ?",
+    "options": [
+      "La balise est : <link>", 
+      "La balise est : <a>", 
+      "La balise est : <href>", 
+      "La balise est : <anchor>"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle balise HTML est utilisée pour afficher une image ?",
+    "options": [
+      "La balise est : <img>", 
+      "La balise est : <image>", 
+      "La balise est : <picture>", 
+      "La balise est : <src>"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quelle balise HTML est utilisée pour créer une liste ordonnée ?",
+    "options": [
+      "La balise est : <ul>", 
+      "La balise est : <ol>", 
+      "La balise est : <li>", 
+      "La balise est : <list>"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle balise HTML est utilisée pour définir le titre d'une page Web ?",
+    "options": [
+      "La balise est : <title>", 
+      "La balise est : <head>", 
+      "La balise est : <h1>", 
+      "La balise est : <header>"],
+    "answer": 0
+  },
+  {
+    "question": "Quelle balise HTML est utilisée pour créer un paragraphe ?",
+    "options": [
+      "La balise est : <para>", 
+      "La balise est : <paragraph>", 
+      "La balise est : <text>", 
+      "La balise est : <p>"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quelle balise HTML est utilisée pour créer un tableau ?",
+    "options": [
+      "La balise est : <tab>", 
+      "La balise est : <tr>", 
+      "La balise est : <tbl>", 
+      "La balise est : <table>"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quelle balise HTML est utilisée pour définir un formulaire ?",
+    "options": [
+      "La balise est : <input>", 
+      "La balise est : <form>", 
+      "La balise est : <button>", 
+      "La balise est : <submit>"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle balise HTML est utilisée pour créer une section indépendante dans un document ?",
+    "options": [
+      "La balise est : <div>", 
+      "La balise est : <section>", 
+      "La balise est : <article>", 
+      "La balise est : <span>"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quelle balise HTML est utilisée pour définir le contenu d'une cellule de tableau ?",
+    "options": [
+      "La balise est : <td>", 
+      "La balise est : <cell>", 
+      "La balise est : <table-data>", 
+      "La balise est : <th>"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quelle balise HTML est utilisée pour définir le contenu de l'en-tête d'une cellule de tableau ?",
+    "options": [
+      "La balise est : <cell-header>", 
+      "La balise est : <thead>", 
+      "La balise est : <table-head>", 
+      "La balise est : <th>"
+    ],
+    "answer": 3
+  }
+]

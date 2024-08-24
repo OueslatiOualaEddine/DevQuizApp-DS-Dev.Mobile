@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Quelle propriété CSS est utilisée pour définir la largeur d'un élément ?",
+    "options": ["La propriété est : width", "La propriété est : size", "La propriété est : length", "La propriété est : dimension"],
+    "answer": 0
+  },
+  {
+    "question": "Quelle propriété CSS est utilisée pour centrer horizontalement un élément ?",
+    "options": ["La propriété est : horizontal-align", "La propriété est : center", "La propriété est : align-items", "La propriété est : margin"],
+    "answer": 3
+  },
+  {
+    "question": "Quelle propriété CSS est utilisée pour définir la couleur de fond d'un élément ?",
+    "options": ["La propriété est : background-color", "La propriété est : color", "La propriété est : bg-color", "La propriété est : background"],
+    "answer": 0
+  },
+  {
+    "question": "Quelle propriété CSS est utilisée pour définir le style de bordure d'un élément ?",
+    "options": ["La propriété est : border-style", "La propriété est : border-width", "La propriété est : border", "La propriété est : border-color"],
+    "answer": 2
+  },
+  {
+    "question": "Quelle propriété CSS est utilisée pour définir l'opacité d'un élément ?",
+    "options": ["La propriété est : transparency", "La propriété est : opacity", "La propriété est : visibility", "La propriété est : display"],
+    "answer": 1
+  },
+  {
+    "question": "Quelle propriété CSS est utilisée pour définir l'espacement entre les lignes de texte ?",
+    "options": ["La propriété est : line-spacing", "La propriété est : line-height", "La propriété est : text-spacing", "La propriété est : spacing"],
+    "answer": 1
+  },
+  {
+    "question": "Quelle propriété CSS est utilisée pour définir la visibilité d'un élément ?",
+    "options": ["La propriété est : visibility", "La propriété est : display", "La propriété est : show", "La propriété est : hide"],
+    "answer": 0
+  },
+  {
+    "question": "Quelle propriété CSS est utilisée pour spécifier le style de police de caractères ?",
+    "options": ["La propriété est : font-style", "La propriété est : font-variant", "La propriété est : font-family", "La propriété est : font"],
+    "answer": 3
+  },
+  {
+    "question": "Quelle propriété CSS est utilisée pour définir le style de la bordure gauche d'un élément ?",
+    "options": ["La propriété est : border-left", "La propriété est : border-right", "La propriété est : border-top", "La propriété est : border-bottom"],
+    "answer": 0
+  },
+  {
+    "question": "Quelle propriété CSS est utilisée pour définir l'image d'arrière-plan d'un élément ?",
+    "options": ["La propriété est : background-color", "La propriété est : bg-image", "La propriété est : background-image", "La propriété est : bg-url"],
+    "answer": 2
+  },
+  {
+    "question": "Quelle propriété CSS est utilisée pour définir la taille de l'élément en pourcentage de la taille de son conteneur ?",
+    "options": ["La propriété est : width", "La propriété est : size", "La propriété est : length", "La propriété est : percentage"],
+    "answer": 0
+  },
+  {
+    "question": "Quelle propriété CSS est utilisée pour définir la transparence de l'arrière-plan d'un élément ?",
+    "options": ["La propriété est : background-opacity", "La propriété est : background-transparency", "La propriété est : opacity", "La propriété est : bg-opacity"],
+    "answer": 2
+  },
+  {
+    "question": "Quelle propriété CSS est utilisée pour définir l'espacement interne entre le bord de l'élément et son contenu ?",
+    "options": ["La propriété est : padding", "La propriété est : margin", "La propriété est : border-spacing", "La propriété est : spacing"],
+    "answer": 0
+  },
+  {
+    "question": "Quelle propriété CSS est utilisée pour spécifier la hauteur de l'élément ?",
+    "options": ["La propriété est : height", "La propriété est : size", "La propriété est : length", "La propriété est : dimension"],
+    "answer": 0
+  },
+  {
+    "question": "Quelle propriété CSS est utilisée pour définir l'alignement vertical du contenu d'un élément ?",
+    "options": ["La propriété est : vertical-align", "La propriété est : align-items", "La propriété est : justify-content", "La propriété est : align-content"],
+    "answer": 0
+  },
+  {
+    "question": "Quelle propriété CSS est utilisée pour spécifier la position de l'élément par rapport à son conteneur parent ?",
+    "options": ["La propriété est : position", "La propriété est : place", "La propriété est : location", "La propriété est : align"],
+    "answer": 0
+  },
+  {
+    "question": "Quelle propriété CSS est utilisée pour spécifier la direction dans laquelle le texte est écrit ?",
+    "options": ["La propriété est : text-direction", "La propriété est : writing-mode", "La propriété est : direction", "La propriété est : text-flow"],
+    "answer": 1
+  },
+  {
+    "question": "Quelle propriété CSS est utilisée pour définir la visibilité de la bordure d'un élément ?",
+    "options": ["La propriété est : border-visibility", "La propriété est : border-display", "La propriété est : border-show", "La propriété est : border-hide"],
+    "answer": 0
+  },
+  {
+    "question": "Quelle propriété CSS est utilisée pour spécifier la méthode de découpage d'une image d'arrière-plan ?",
+    "options": ["La propriété est : background-clip", "La propriété est : background-cut", "La propriété est : background-trim", "La propriété est : background-clip"],
+    "answer": 0
+  },
+  {
+    "question": "Quelle propriété CSS est utilisée pour spécifier la couleur de la bordure d'un élément ?",
+    "options": ["La propriété est : border-color", "La propriété est : border-style", "La propriété est : border-width", "La propriété est : border"],
+    "answer": 0
+  }
+]
